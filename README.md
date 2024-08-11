@@ -1,5 +1,5 @@
 # Digital Attenuator 
-This is a digital attenuator eval board for the 
+This is a digital attenuator eval board for the HMC472ALP4ETR. This project was created using EASYEDA Pro.
 
 Active digital attenuator evaluation board for the HMC472ALP4ETR
 
@@ -9,3 +9,4 @@ Active digital attenuator evaluation board for the HMC472ALP4ETR
 - Impedance: 50 Ohms
 
 ![eval_board_big](https://github.com/user-attachments/assets/5c931d5e-9966-40b3-8b17-3a2cef392c25)
+
